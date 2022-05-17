@@ -1,0 +1,6 @@
+﻿a. Login Admin
+   - Username	: admin
+   - Password	: 123
+b. Login User
+   - Username	: syarifahaini0912@gmail.com
+   - Password	: 123
